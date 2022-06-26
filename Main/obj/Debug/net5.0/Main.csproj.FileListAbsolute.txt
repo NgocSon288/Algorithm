@@ -1,0 +1,15 @@
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/Main.deps.json
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/Main.runtimeconfig.json
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/Main.runtimeconfig.dev.json
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/Main.dll
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/ref/Main.dll
+/Users/huynhngocson/Desktop/Algorithm/Main/bin/Debug/net5.0/Main.pdb
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.csproj.AssemblyReference.cache
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.AssemblyInfoInputs.cache
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.AssemblyInfo.cs
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.csproj.CoreCompileInputs.cache
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.dll
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/ref/Main.dll
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.pdb
+/Users/huynhngocson/Desktop/Algorithm/Main/obj/Debug/net5.0/Main.genruntimeconfig.cache
